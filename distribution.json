@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "gameVersion": "1.08",
+  "totalSize": "100 MB",
+  "files": [
+    {
+      "url": "https://dummy-link.com/ncrp-mods.zip",
+      "name": "ncrp-mods.zip",
+      "path": "Android/data/com.ncrp.mobile/files",
+      "size": 104857600,
+      "md5": "d41d8cd98f00b204e9800998ecf8427e"
+    }
+  ]
+}
